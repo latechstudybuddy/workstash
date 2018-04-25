@@ -1,5 +1,5 @@
 # workstash
-Collection of documents ranging from notes to assignments, hosted here with the intent of improving the studying experience of students at LATech.
+Collection of documents ranging from notes to assignments, hosted here with the intent of improving the studying experience of students at Louisiana Tech.
 
 If you would like to contribute your own work to the repository, email me the contents in a zip/rar archive at
 
